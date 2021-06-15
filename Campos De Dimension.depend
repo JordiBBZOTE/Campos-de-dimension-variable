@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1619403340 source:c:\users\jordi\desktop\campos de dimension\src\classa.cpp
+	<iostream>
+	<sstream>
+	"ClassA.h"
+	<fstream>
+	"ClassB.h"
+
+1619385457 c:\users\jordi\desktop\campos de dimension\include\classa.h
+	<cstdlib>
+	"ClassB.h"
+
+1619133214 source:c:\users\jordi\desktop\campos de dimension\src\classb.cpp
+	"ClassB.h"
+
+1619133395 c:\users\jordi\desktop\campos de dimension\include\classb.h
+	<cstdlib>
+	<sstream>
+
+1619404742 source:c:\users\jordi\desktop\campos de dimension\main.cpp
+	<iostream>
+	<sstream>
+	<cstdlib>
+	"ClassA.h"
+	"ClassB.h"
+	<fstream>
+
